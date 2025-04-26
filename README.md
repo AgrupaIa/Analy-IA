@@ -1,1 +1,1 @@
-# Analy-IA
+# Analy
